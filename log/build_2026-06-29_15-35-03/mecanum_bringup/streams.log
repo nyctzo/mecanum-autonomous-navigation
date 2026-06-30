@@ -1,0 +1,22 @@
+[3.621s] Invoking command in '/home/nyctzo/dibyanshu_ws/build/mecanum_bringup': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nyctzo/dibyanshu_ws/build/mecanum_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nyctzo/dibyanshu_ws/build/mecanum_bringup/build --no-deps symlink_data --force
+[4.384s] running develop
+[4.830s] running egg_info
+[4.874s] writing mecanum_bringup.egg-info/PKG-INFO
+[4.874s] writing dependency_links to mecanum_bringup.egg-info/dependency_links.txt
+[4.875s] writing entry points to mecanum_bringup.egg-info/entry_points.txt
+[4.875s] writing requirements to mecanum_bringup.egg-info/requires.txt
+[4.875s] writing top-level names to mecanum_bringup.egg-info/top_level.txt
+[4.962s] reading manifest file 'mecanum_bringup.egg-info/SOURCES.txt'
+[4.964s] writing manifest file 'mecanum_bringup.egg-info/SOURCES.txt'
+[5.006s] running build_ext
+[5.006s] Creating /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages/mecanum-bringup.egg-link (link to .)
+[5.008s] Installing cmd_vel_bridge script to /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/mecanum_bringup
+[5.009s] Installing tf_odom_bridge script to /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/mecanum_bringup
+[5.009s] 
+[5.010s] Installed /home/nyctzo/dibyanshu_ws/build/mecanum_bringup
+[5.010s] running symlink_data
+[5.010s] symbolically linking /home/nyctzo/dibyanshu_ws/build/mecanum_bringup/resource/mecanum_bringup -> /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/share/ament_index/resource_index/packages
+[5.011s] symbolically linking /home/nyctzo/dibyanshu_ws/build/mecanum_bringup/package.xml -> /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/share/mecanum_bringup
+[5.011s] symbolically linking /home/nyctzo/dibyanshu_ws/build/mecanum_bringup/launch/controllers.launch.py -> /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/share/mecanum_bringup/launch
+[5.011s] symbolically linking /home/nyctzo/dibyanshu_ws/build/mecanum_bringup/launch/simulation.launch.py -> /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/share/mecanum_bringup/launch
+[5.098s] Invoked command in '/home/nyctzo/dibyanshu_ws/build/mecanum_bringup' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nyctzo/dibyanshu_ws/build/mecanum_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nyctzo/dibyanshu_ws/build/mecanum_bringup/build --no-deps symlink_data --force

@@ -1,0 +1,47 @@
+[0.738s] Invoking command in '/home/nyctzo/dibyanshu_ws/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nyctzo/dibyanshu_ws/install/my_first_pkg:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup:/home/nyctzo/ros2_ws/install/mecanum_teleop:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/nyctzo/dibyanshu_ws/src/ros2_jazzy/src/my_robot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nyctzo/dibyanshu_ws/install/my_robot_description
+[0.850s] -- The C compiler identification is GNU 13.3.0
+[0.963s] -- The CXX compiler identification is GNU 13.3.0
+[0.995s] -- Detecting C compiler ABI info
+[1.175s] -- Detecting C compiler ABI info - done
+[1.200s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.201s] -- Detecting C compile features
+[1.201s] -- Detecting C compile features - done
+[1.223s] -- Detecting CXX compiler ABI info
+[1.461s] -- Detecting CXX compiler ABI info - done
+[1.486s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.486s] -- Detecting CXX compile features
+[1.488s] -- Detecting CXX compile features - done
+[1.500s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.916s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.123s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.541s] -- Configuring done (1.8s)
+[2.547s] -- Generating done (0.0s)
+[2.550s] -- Build files have been written to: /home/nyctzo/dibyanshu_ws/build/my_robot_description
+[2.563s] Invoked command in '/home/nyctzo/dibyanshu_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nyctzo/dibyanshu_ws/install/my_first_pkg:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup:/home/nyctzo/ros2_ws/install/mecanum_teleop:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/nyctzo/dibyanshu_ws/src/ros2_jazzy/src/my_robot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nyctzo/dibyanshu_ws/install/my_robot_description
+[2.567s] Invoking command in '/home/nyctzo/dibyanshu_ws/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nyctzo/dibyanshu_ws/install/my_first_pkg:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup:/home/nyctzo/ros2_ws/install/mecanum_teleop:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/nyctzo/dibyanshu_ws/build/my_robot_description -- -j12 -l12
+[2.678s] Invoked command in '/home/nyctzo/dibyanshu_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nyctzo/dibyanshu_ws/install/my_first_pkg:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup:/home/nyctzo/ros2_ws/install/mecanum_teleop:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/nyctzo/dibyanshu_ws/build/my_robot_description -- -j12 -l12
+[2.710s] Invoking command in '/home/nyctzo/dibyanshu_ws/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nyctzo/dibyanshu_ws/install/my_first_pkg:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup:/home/nyctzo/ros2_ws/install/mecanum_teleop:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/nyctzo/dibyanshu_ws/build/my_robot_description
+[2.711s] -- Install configuration: ""
+[2.711s] -- Execute custom install script
+[2.711s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/my_robot_description/share/my_robot_description/urdf/robot_model.xacro
+[2.722s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/my_robot_description/share/my_robot_description/urdf/ros2_control.xacro
+[2.740s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/my_robot_description/share/my_robot_description/launch/gazebo_robot.launch.py
+[2.766s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/my_robot_description/share/my_robot_description/rviz/.gitkeep
+[2.786s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/my_robot_description/share/my_robot_description/worlds/robot_model_world.sdf
+[2.806s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/my_robot_description/share/my_robot_description/config/controllers.yaml
+[2.828s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+[2.852s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+[2.872s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+[2.891s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+[2.915s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/my_robot_description/share/my_robot_description/environment/path.sh
+[2.934s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/my_robot_description/share/my_robot_description/environment/path.dsv
+[2.956s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/my_robot_description/share/my_robot_description/local_setup.bash
+[2.985s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/my_robot_description/share/my_robot_description/local_setup.sh
+[3.007s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/my_robot_description/share/my_robot_description/local_setup.zsh
+[3.034s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/my_robot_description/share/my_robot_description/local_setup.dsv
+[3.060s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/my_robot_description/share/my_robot_description/package.dsv
+[3.083s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+[3.102s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+[3.121s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+[3.142s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/my_robot_description/share/my_robot_description/package.xml
+[3.209s] Invoked command in '/home/nyctzo/dibyanshu_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nyctzo/dibyanshu_ws/install/my_first_pkg:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup:/home/nyctzo/ros2_ws/install/mecanum_teleop:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/nyctzo/dibyanshu_ws/build/my_robot_description

@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: mecanum-bringup
+Version: 0.0.0
+Summary: Bringup package
+Maintainer: Dibyanshu
+Maintainer-email: example@example.com
+License: Apache-2.0

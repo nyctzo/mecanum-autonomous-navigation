@@ -1,0 +1,10 @@
+/home/nyctzo/dibyanshu_ws/build/mecanum_control/CMakeFiles/uninstall.dir
+/home/nyctzo/dibyanshu_ws/build/mecanum_control/CMakeFiles/mecanum_control_uninstall.dir
+/home/nyctzo/dibyanshu_ws/build/mecanum_control/CMakeFiles/mecanum_control_node.dir
+/home/nyctzo/dibyanshu_ws/build/mecanum_control/CMakeFiles/test.dir
+/home/nyctzo/dibyanshu_ws/build/mecanum_control/CMakeFiles/edit_cache.dir
+/home/nyctzo/dibyanshu_ws/build/mecanum_control/CMakeFiles/rebuild_cache.dir
+/home/nyctzo/dibyanshu_ws/build/mecanum_control/CMakeFiles/list_install_components.dir
+/home/nyctzo/dibyanshu_ws/build/mecanum_control/CMakeFiles/install.dir
+/home/nyctzo/dibyanshu_ws/build/mecanum_control/CMakeFiles/install/local.dir
+/home/nyctzo/dibyanshu_ws/build/mecanum_control/CMakeFiles/install/strip.dir

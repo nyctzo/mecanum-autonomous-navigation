@@ -1,0 +1,17 @@
+[1.799s] Invoking command in '/home/nyctzo/dibyanshu_ws/build/mecanum_bringup': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nyctzo/dibyanshu_ws/build/mecanum_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nyctzo/dibyanshu_ws/build/mecanum_bringup/build --no-deps symlink_data
+[2.293s] running develop
+[2.582s] running egg_info
+[2.609s] writing mecanum_bringup.egg-info/PKG-INFO
+[2.610s] writing dependency_links to mecanum_bringup.egg-info/dependency_links.txt
+[2.610s] writing entry points to mecanum_bringup.egg-info/entry_points.txt
+[2.610s] writing requirements to mecanum_bringup.egg-info/requires.txt
+[2.610s] writing top-level names to mecanum_bringup.egg-info/top_level.txt
+[2.686s] reading manifest file 'mecanum_bringup.egg-info/SOURCES.txt'
+[2.686s] writing manifest file 'mecanum_bringup.egg-info/SOURCES.txt'
+[2.719s] running build_ext
+[2.719s] Creating /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages/mecanum-bringup.egg-link (link to .)
+[2.721s] Installing cmd_vel_bridge script to /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/mecanum_bringup
+[2.721s] 
+[2.721s] Installed /home/nyctzo/dibyanshu_ws/build/mecanum_bringup
+[2.722s] running symlink_data
+[2.800s] Invoked command in '/home/nyctzo/dibyanshu_ws/build/mecanum_bringup' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nyctzo/dibyanshu_ws/build/mecanum_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nyctzo/dibyanshu_ws/build/mecanum_bringup/build --no-deps symlink_data

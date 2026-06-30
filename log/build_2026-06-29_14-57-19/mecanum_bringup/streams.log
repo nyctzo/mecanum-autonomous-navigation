@@ -1,0 +1,22 @@
+[0.487s] Invoking command in '/home/nyctzo/dibyanshu_ws/src/ros2_jazzy/src/mecanum_bringup': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nyctzo/dibyanshu_ws/build/mecanum_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/mecanum_bringup build --build-base /home/nyctzo/dibyanshu_ws/build/mecanum_bringup/build install --record /home/nyctzo/dibyanshu_ws/build/mecanum_bringup/install.log --install-scripts $base/lib/mecanum_bringup --single-version-externally-managed install_data
+[0.658s] running egg_info
+[0.669s] writing ../../../../build/mecanum_bringup/mecanum_bringup.egg-info/PKG-INFO
+[0.669s] writing dependency_links to ../../../../build/mecanum_bringup/mecanum_bringup.egg-info/dependency_links.txt
+[0.669s] writing entry points to ../../../../build/mecanum_bringup/mecanum_bringup.egg-info/entry_points.txt
+[0.669s] writing requirements to ../../../../build/mecanum_bringup/mecanum_bringup.egg-info/requires.txt
+[0.669s] writing top-level names to ../../../../build/mecanum_bringup/mecanum_bringup.egg-info/top_level.txt
+[0.692s] reading manifest file '../../../../build/mecanum_bringup/mecanum_bringup.egg-info/SOURCES.txt'
+[0.692s] writing manifest file '../../../../build/mecanum_bringup/mecanum_bringup.egg-info/SOURCES.txt'
+[0.692s] running build
+[0.692s] running build_py
+[0.692s] running install
+[0.697s] running install_lib
+[0.708s] running install_data
+[0.708s] running install_egg_info
+[0.720s] removing '/home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages/mecanum_bringup-0.0.0-py3.12.egg-info' (and everything under it)
+[0.720s] Copying ../../../../build/mecanum_bringup/mecanum_bringup.egg-info to /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages/mecanum_bringup-0.0.0-py3.12.egg-info
+[0.720s] running install_scripts
+[0.795s] Installing cmd_vel_bridge script to /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/mecanum_bringup
+[0.796s] Installing tf_odom_bridge script to /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/mecanum_bringup
+[0.796s] writing list of installed files to '/home/nyctzo/dibyanshu_ws/build/mecanum_bringup/install.log'
+[0.817s] Invoked command in '/home/nyctzo/dibyanshu_ws/src/ros2_jazzy/src/mecanum_bringup' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nyctzo/dibyanshu_ws/build/mecanum_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/mecanum_bringup build --build-base /home/nyctzo/dibyanshu_ws/build/mecanum_bringup/build install --record /home/nyctzo/dibyanshu_ws/build/mecanum_bringup/install.log --install-scripts $base/lib/mecanum_bringup --single-version-externally-managed install_data

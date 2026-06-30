@@ -1,0 +1,36 @@
+[2.829s] Invoking command in '/home/nyctzo/dibyanshu_ws/build/mecanum_bringup': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nyctzo/dibyanshu_ws/build/mecanum_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/nyctzo/dibyanshu_ws/build/mecanum_bringup/build
+[3.676s] running develop
+[4.325s] Removing /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages/mecanum-bringup.egg-link (link to .)
+[4.428s] Invoked command in '/home/nyctzo/dibyanshu_ws/build/mecanum_bringup' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nyctzo/dibyanshu_ws/build/mecanum_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/nyctzo/dibyanshu_ws/build/mecanum_bringup/build
+[4.429s] Invoking command in '/home/nyctzo/dibyanshu_ws/src/ros2_jazzy/src/mecanum_bringup': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nyctzo/dibyanshu_ws/build/mecanum_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/mecanum_bringup build --build-base /home/nyctzo/dibyanshu_ws/build/mecanum_bringup/build install --record /home/nyctzo/dibyanshu_ws/build/mecanum_bringup/install.log --install-scripts $base/lib/mecanum_bringup --single-version-externally-managed install_data --force
+[5.154s] running egg_info
+[5.201s] writing ../../../../build/mecanum_bringup/mecanum_bringup.egg-info/PKG-INFO
+[5.202s] writing dependency_links to ../../../../build/mecanum_bringup/mecanum_bringup.egg-info/dependency_links.txt
+[5.203s] writing entry points to ../../../../build/mecanum_bringup/mecanum_bringup.egg-info/entry_points.txt
+[5.203s] writing requirements to ../../../../build/mecanum_bringup/mecanum_bringup.egg-info/requires.txt
+[5.203s] writing top-level names to ../../../../build/mecanum_bringup/mecanum_bringup.egg-info/top_level.txt
+[5.303s] reading manifest file '../../../../build/mecanum_bringup/mecanum_bringup.egg-info/SOURCES.txt'
+[5.306s] writing manifest file '../../../../build/mecanum_bringup/mecanum_bringup.egg-info/SOURCES.txt'
+[5.307s] running build
+[5.307s] running build_py
+[5.308s] running install
+[5.327s] running install_lib
+[5.380s] creating /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages/mecanum_bringup
+[5.381s] copying /home/nyctzo/dibyanshu_ws/build/mecanum_bringup/build/lib/mecanum_bringup/cmd_vel_bridge.py -> /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages/mecanum_bringup
+[5.383s] copying /home/nyctzo/dibyanshu_ws/build/mecanum_bringup/build/lib/mecanum_bringup/tf_odom_bridge.py -> /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages/mecanum_bringup
+[5.383s] copying /home/nyctzo/dibyanshu_ws/build/mecanum_bringup/build/lib/mecanum_bringup/__init__.py -> /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages/mecanum_bringup
+[5.385s] byte-compiling /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages/mecanum_bringup/cmd_vel_bridge.py to cmd_vel_bridge.cpython-312.pyc
+[5.388s] byte-compiling /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages/mecanum_bringup/tf_odom_bridge.py to tf_odom_bridge.cpython-312.pyc
+[5.388s] byte-compiling /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages/mecanum_bringup/__init__.py to __init__.cpython-312.pyc
+[5.389s] running install_data
+[5.389s] copying resource/mecanum_bringup -> /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/share/ament_index/resource_index/packages
+[5.389s] copying package.xml -> /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/share/mecanum_bringup
+[5.392s] copying launch/controllers.launch.py -> /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/share/mecanum_bringup/launch
+[5.394s] copying launch/simulation.launch.py -> /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/share/mecanum_bringup/launch
+[5.394s] running install_egg_info
+[5.448s] Copying ../../../../build/mecanum_bringup/mecanum_bringup.egg-info to /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages/mecanum_bringup-0.0.0-py3.12.egg-info
+[5.451s] running install_scripts
+[5.787s] Installing cmd_vel_bridge script to /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/mecanum_bringup
+[5.787s] Installing tf_odom_bridge script to /home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/mecanum_bringup
+[5.791s] writing list of installed files to '/home/nyctzo/dibyanshu_ws/build/mecanum_bringup/install.log'
+[5.879s] Invoked command in '/home/nyctzo/dibyanshu_ws/src/ros2_jazzy/src/mecanum_bringup' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nyctzo/dibyanshu_ws/build/mecanum_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/mecanum_bringup build --build-base /home/nyctzo/dibyanshu_ws/build/mecanum_bringup/build install --record /home/nyctzo/dibyanshu_ws/build/mecanum_bringup/install.log --install-scripts $base/lib/mecanum_bringup --single-version-externally-managed install_data --force

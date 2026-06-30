@@ -1,0 +1,16 @@
+/home/nyctzo/dibyanshu_ws/install/mecanum_control/lib/mecanum_control/mecanum_control_node
+/home/nyctzo/dibyanshu_ws/install/mecanum_control/share/ament_index/resource_index/package_run_dependencies/mecanum_control
+/home/nyctzo/dibyanshu_ws/install/mecanum_control/share/ament_index/resource_index/parent_prefix_path/mecanum_control
+/home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/environment/ament_prefix_path.sh
+/home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/environment/ament_prefix_path.dsv
+/home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/environment/path.sh
+/home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/environment/path.dsv
+/home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/local_setup.bash
+/home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/local_setup.sh
+/home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/local_setup.zsh
+/home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/local_setup.dsv
+/home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/package.dsv
+/home/nyctzo/dibyanshu_ws/install/mecanum_control/share/ament_index/resource_index/packages/mecanum_control
+/home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/cmake/mecanum_controlConfig.cmake
+/home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/cmake/mecanum_controlConfig-version.cmake
+/home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/package.xml

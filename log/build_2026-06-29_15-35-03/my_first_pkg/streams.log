@@ -1,0 +1,15 @@
+[3.526s] Invoking command in '/home/nyctzo/dibyanshu_ws/build/my_first_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nyctzo/dibyanshu_ws/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nyctzo/dibyanshu_ws/install/my_first_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nyctzo/dibyanshu_ws/build/my_first_pkg/build --no-deps symlink_data
+[4.313s] running develop
+[4.797s] running egg_info
+[4.841s] writing my_first_pkg.egg-info/PKG-INFO
+[4.841s] writing dependency_links to my_first_pkg.egg-info/dependency_links.txt
+[4.842s] writing requirements to my_first_pkg.egg-info/requires.txt
+[4.843s] writing top-level names to my_first_pkg.egg-info/top_level.txt
+[4.929s] reading manifest file 'my_first_pkg.egg-info/SOURCES.txt'
+[4.933s] writing manifest file 'my_first_pkg.egg-info/SOURCES.txt'
+[4.981s] running build_ext
+[4.982s] Creating /home/nyctzo/dibyanshu_ws/install/my_first_pkg/lib/python3.12/site-packages/my-first-pkg.egg-link (link to .)
+[4.983s] 
+[4.983s] Installed /home/nyctzo/dibyanshu_ws/build/my_first_pkg
+[4.983s] running symlink_data
+[5.083s] Invoked command in '/home/nyctzo/dibyanshu_ws/build/my_first_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nyctzo/dibyanshu_ws/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nyctzo/dibyanshu_ws/install/my_first_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nyctzo/dibyanshu_ws/build/my_first_pkg/build --no-deps symlink_data

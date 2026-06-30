@@ -1,0 +1,52 @@
+[0.379s] Invoking command in '/home/nyctzo/dibyanshu_ws/build/mecanum_wheel': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nyctzo/dibyanshu_ws/install/my_first_pkg:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup:/home/nyctzo/ros2_ws/install/mecanum_teleop:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/nyctzo/dibyanshu_ws/src/ros2_jazzy/src/mecanum_wheel -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nyctzo/dibyanshu_ws/install/mecanum_wheel
+[0.749s] -- The C compiler identification is GNU 13.3.0
+[0.749s] -- The CXX compiler identification is GNU 13.3.0
+[0.749s] -- Detecting C compiler ABI info
+[0.914s] -- Detecting C compiler ABI info - done
+[0.941s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.942s] -- Detecting C compile features
+[0.943s] -- Detecting C compile features - done
+[0.967s] -- Detecting CXX compiler ABI info
+[1.195s] -- Detecting CXX compiler ABI info - done
+[1.220s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.221s] -- Detecting CXX compile features
+[1.222s] -- Detecting CXX compile features - done
+[1.236s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.700s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.940s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.368s] -- Configuring done (2.0s)
+[2.374s] -- Generating done (0.0s)
+[2.380s] -- Build files have been written to: /home/nyctzo/dibyanshu_ws/build/mecanum_wheel
+[2.394s] Invoked command in '/home/nyctzo/dibyanshu_ws/build/mecanum_wheel' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nyctzo/dibyanshu_ws/install/my_first_pkg:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup:/home/nyctzo/ros2_ws/install/mecanum_teleop:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/nyctzo/dibyanshu_ws/src/ros2_jazzy/src/mecanum_wheel -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nyctzo/dibyanshu_ws/install/mecanum_wheel
+[2.401s] Invoking command in '/home/nyctzo/dibyanshu_ws/build/mecanum_wheel': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nyctzo/dibyanshu_ws/install/my_first_pkg:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup:/home/nyctzo/ros2_ws/install/mecanum_teleop:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/nyctzo/dibyanshu_ws/build/mecanum_wheel -- -j12 -l12
+[2.497s] Invoked command in '/home/nyctzo/dibyanshu_ws/build/mecanum_wheel' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nyctzo/dibyanshu_ws/install/my_first_pkg:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup:/home/nyctzo/ros2_ws/install/mecanum_teleop:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/nyctzo/dibyanshu_ws/build/mecanum_wheel -- -j12 -l12
+[2.525s] Invoking command in '/home/nyctzo/dibyanshu_ws/build/mecanum_wheel': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nyctzo/dibyanshu_ws/install/my_first_pkg:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup:/home/nyctzo/ros2_ws/install/mecanum_teleop:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/nyctzo/dibyanshu_ws/build/mecanum_wheel
+[2.544s] -- Install configuration: ""
+[2.544s] -- Execute custom install script
+[2.545s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/config/nav2_params.yaml
+[2.569s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/config/slam_toolbox_params.yaml
+[2.596s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/launch/display.launch.py
+[2.620s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/launch/gazebo_robot.launch.py
+[2.645s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/launch/nav2.launch.py
+[2.666s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/launch/slam.launch.py
+[2.690s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/maps/empty_map.pgm
+[2.728s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/maps/empty_map.yaml
+[2.745s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/rviz/mecanum_robot.rviz
+[2.765s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/urdf/robot_model.xacro
+[2.790s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/worlds/robot_model_world.sdf
+[2.808s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/ament_index/resource_index/package_run_dependencies/mecanum_wheel
+[2.836s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/ament_index/resource_index/parent_prefix_path/mecanum_wheel
+[2.863s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/environment/ament_prefix_path.sh
+[2.890s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/environment/ament_prefix_path.dsv
+[2.917s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/environment/path.sh
+[2.941s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/environment/path.dsv
+[2.965s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/local_setup.bash
+[2.989s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/local_setup.sh
+[3.011s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/local_setup.zsh
+[3.030s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/local_setup.dsv
+[3.053s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/package.dsv
+[3.074s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/ament_index/resource_index/packages/mecanum_wheel
+[3.100s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/cmake/mecanum_wheelConfig.cmake
+[3.120s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/cmake/mecanum_wheelConfig-version.cmake
+[3.145s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/package.xml
+[3.177s] Invoked command in '/home/nyctzo/dibyanshu_ws/build/mecanum_wheel' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nyctzo/dibyanshu_ws/install/my_first_pkg:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup:/home/nyctzo/ros2_ws/install/mecanum_teleop:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/nyctzo/dibyanshu_ws/build/mecanum_wheel

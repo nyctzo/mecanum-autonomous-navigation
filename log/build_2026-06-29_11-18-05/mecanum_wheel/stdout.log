@@ -1,0 +1,46 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done (2.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/nyctzo/dibyanshu_ws/build/mecanum_wheel
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/config/nav2_params.yaml
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/config/slam_toolbox_params.yaml
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/launch/display.launch.py
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/launch/gazebo_robot.launch.py
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/launch/nav2.launch.py
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/launch/slam.launch.py
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/maps/empty_map.pgm
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/maps/empty_map.yaml
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/rviz/mecanum_robot.rviz
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/urdf/robot_model.xacro
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/worlds/robot_model_world.sdf
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/ament_index/resource_index/package_run_dependencies/mecanum_wheel
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/ament_index/resource_index/parent_prefix_path/mecanum_wheel
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/environment/ament_prefix_path.sh
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/environment/ament_prefix_path.dsv
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/environment/path.sh
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/environment/path.dsv
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/local_setup.bash
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/local_setup.sh
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/local_setup.zsh
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/local_setup.dsv
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/package.dsv
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/ament_index/resource_index/packages/mecanum_wheel
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/cmake/mecanum_wheelConfig.cmake
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/cmake/mecanum_wheelConfig-version.cmake
+-- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_wheel/share/mecanum_wheel/package.xml

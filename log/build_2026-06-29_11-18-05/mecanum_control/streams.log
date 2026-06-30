@@ -1,0 +1,56 @@
+[0.388s] Invoking command in '/home/nyctzo/dibyanshu_ws/build/mecanum_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nyctzo/dibyanshu_ws/install/my_first_pkg:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup:/home/nyctzo/ros2_ws/install/mecanum_teleop:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/nyctzo/dibyanshu_ws/src/ros2_jazzy/src/mecanum_control -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nyctzo/dibyanshu_ws/install/mecanum_control
+[0.762s] -- The C compiler identification is GNU 13.3.0
+[0.762s] -- The CXX compiler identification is GNU 13.3.0
+[0.762s] -- Detecting C compiler ABI info
+[0.920s] -- Detecting C compiler ABI info - done
+[0.944s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.945s] -- Detecting C compile features
+[0.947s] -- Detecting C compile features - done
+[0.970s] -- Detecting CXX compiler ABI info
+[1.201s] -- Detecting CXX compiler ABI info - done
+[1.230s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.230s] -- Detecting CXX compile features
+[1.232s] -- Detecting CXX compile features - done
+[1.251s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.707s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.952s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.128s] -- Found rclcpp: 28.1.21 (/opt/ros/jazzy/share/rclcpp/cmake)
+[2.307s] -- Found rosidl_generator_c: 4.6.9 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[2.366s] -- Found rosidl_generator_cpp: 4.6.9 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[2.451s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.532s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.853s] -- Found rmw_implementation_cmake: 7.3.3 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[2.868s] -- Found rmw_fastrtps_cpp: 8.4.4 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[3.137s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[3.204s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[3.274s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.575s] -- Found geometry_msgs: 5.3.8 (/opt/ros/jazzy/share/geometry_msgs/cmake)
+[3.939s] -- Configuring done (3.5s)
+[3.969s] -- Generating done (0.0s)
+[3.978s] -- Build files have been written to: /home/nyctzo/dibyanshu_ws/build/mecanum_control
+[3.999s] Invoked command in '/home/nyctzo/dibyanshu_ws/build/mecanum_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nyctzo/dibyanshu_ws/install/my_first_pkg:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup:/home/nyctzo/ros2_ws/install/mecanum_teleop:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/nyctzo/dibyanshu_ws/src/ros2_jazzy/src/mecanum_control -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nyctzo/dibyanshu_ws/install/mecanum_control
+[4.000s] Invoking command in '/home/nyctzo/dibyanshu_ws/build/mecanum_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nyctzo/dibyanshu_ws/install/my_first_pkg:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup:/home/nyctzo/ros2_ws/install/mecanum_teleop:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/nyctzo/dibyanshu_ws/build/mecanum_control -- -j12 -l12
+[4.130s] [ 50%] [32mBuilding CXX object CMakeFiles/mecanum_control_node.dir/src/mecanum_control_node.cpp.o[0m
+[16.007s] [100%] [32m[1mLinking CXX executable mecanum_control_node[0m
+[16.421s] [100%] Built target mecanum_control_node
+[16.437s] Invoked command in '/home/nyctzo/dibyanshu_ws/build/mecanum_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nyctzo/dibyanshu_ws/install/my_first_pkg:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup:/home/nyctzo/ros2_ws/install/mecanum_teleop:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/nyctzo/dibyanshu_ws/build/mecanum_control -- -j12 -l12
+[16.439s] Invoking command in '/home/nyctzo/dibyanshu_ws/build/mecanum_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nyctzo/dibyanshu_ws/install/my_first_pkg:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup:/home/nyctzo/ros2_ws/install/mecanum_teleop:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/nyctzo/dibyanshu_ws/build/mecanum_control
+[16.448s] -- Install configuration: ""
+[16.449s] -- Execute custom install script
+[16.449s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_control/lib/mecanum_control/mecanum_control_node
+[16.462s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_control/share/ament_index/resource_index/package_run_dependencies/mecanum_control
+[16.474s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_control/share/ament_index/resource_index/parent_prefix_path/mecanum_control
+[16.485s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/environment/ament_prefix_path.sh
+[16.501s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/environment/ament_prefix_path.dsv
+[16.513s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/environment/path.sh
+[16.524s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/environment/path.dsv
+[16.542s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/local_setup.bash
+[16.554s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/local_setup.sh
+[16.571s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/local_setup.zsh
+[16.582s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/local_setup.dsv
+[16.594s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/package.dsv
+[16.607s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_control/share/ament_index/resource_index/packages/mecanum_control
+[16.618s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/cmake/mecanum_controlConfig.cmake
+[16.631s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/cmake/mecanum_controlConfig-version.cmake
+[16.644s] -- Symlinking: /home/nyctzo/dibyanshu_ws/install/mecanum_control/share/mecanum_control/package.xml
+[16.657s] Invoked command in '/home/nyctzo/dibyanshu_ws/build/mecanum_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nyctzo/dibyanshu_ws/install/my_first_pkg:/home/nyctzo/dibyanshu_ws/install/mecanum_bringup:/home/nyctzo/ros2_ws/install/mecanum_teleop:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/nyctzo/dibyanshu_ws/build/mecanum_control
