@@ -1,0 +1,23 @@
+# ROS2 build artifacts
+build/
+install/
+log/
+
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.swp
+*.bak
+
+# Generated TF graphs
+frames_*.gv
+frames_*.pdf
+
+# Archives
+*.zip
